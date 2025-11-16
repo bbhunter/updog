@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "updog"
-version = "2.0.0"
+version = "2.0.1"
 description = "Updog is a replacement for Python's SimpleHTTPServer. It allows uploading and downloading via HTTP/S, can set ad hoc SSL certificates and use HTTP basic auth."
 authors = ["sc0tfree <henry@sc0tfree.com>"]
 license = "MIT"

@@ -1,4 +1,4 @@
-![Version 2.0](http://img.shields.io/badge/version-v2.0-green.svg)
+![Version 2.0.1](http://img.shields.io/badge/version-v2.0.1-green.svg)
 ![Python 3.11+](http://img.shields.io/badge/python-3.11+-blue.svg)
 [![MIT License](http://img.shields.io/badge/license-MIT%20License-blue.svg)](https://github.com/sc0tfree/updog/blob/master/LICENSE)
 [![sc0tfree Twitter](http://img.shields.io/twitter/url/http/shields.io.svg?style=social&label=Follow)](https://twitter.com/sc0tfree)
