@@ -4,7 +4,7 @@
 [![sc0tfree Twitter](http://img.shields.io/twitter/url/http/shields.io.svg?style=social&label=Follow)](https://twitter.com/sc0tfree)
 
 <p>
-  <img src="assets/updog.png" width=85px alt="updog"/>
+  <img src="https://raw.githubusercontent.com/sc0tfree/updog/master/assets/updog.png" width=85px alt="updog"/>
 </p>
 
 Updog is a replacement for Python's `SimpleHTTPServer`. 
